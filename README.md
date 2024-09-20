@@ -33,8 +33,9 @@ This is a simple **News App** built with **HTML**, **CSS**, and **JavaScript**. 
 ## Project Structure
 
 ```bash
+├── images folder
 ├── index.html        # Main HTML file
 ├── style.css         # CSS file for styling
 ├── script.js         # JavaScript file for handling news fetching and search
 └── README.md         # This readme file
-└── screenshot.png    # Screenshot of the app (for documentation purposes)
+└── screenshot1.png    # Screenshot of the app (for documentation purposes)
