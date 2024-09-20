@@ -1,4 +1,3 @@
-//const apiKey = 'c8feed95dc2f41a7a2c4fe8e1211adec';
 const apiKey = "Your_API_Key";
 
 const blogcontainer = document.getElementById("blog-container");
